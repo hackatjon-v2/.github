@@ -1,4 +1,8 @@
+<div align="center">
+
 ![Digital Proof Hackathon](banner.jpg)
+
+</div>
 
 # Hackatjon-v2
 
