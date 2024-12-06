@@ -18,7 +18,7 @@ For privacy reasons I've decided to leave out any specifics about the data, the 
 
 This edition of the Digital Proof Hackathon was made possible by [De Digitale Werkplaats](https://www.mijnbedrijfdigitaliseren.nl/), [Hackathon Masters](https://hackathonmasters.com/), [Automotive Campus Helmond](https://www.automotivecampus.com/) and [Innovatiehuis de Peel](https://innovatiehuisdepeel.nl/default.aspx).
 
-Hackatjon-v2 was composed of me and these amazing people:
+Hackatjon-v2 consisted of me and these amazing people:
 
 [@luvbxgs](https://github.com/Luvbxgs), [@zyggzzz](https://github.com/zyggzzz) and [@TiesOnKip](https://github.com/TiesOnKip).
 
