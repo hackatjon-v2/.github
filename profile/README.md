@@ -1,12 +1,12 @@
-<div align="center">
-
 ![Digital Proof Hackathon](banner.jpg)
-
-</div>
 
 # Hackatjon-v2
 
-This organization was created to participate in the Digital Proof Hackathon of December 2024 at the Automotive Campus in Helmond, The Netherlands. Our team, cleverly named **Hackatjon-v2**, won the Audience Award.
+This organization was created to participate in the Digital Proof Hackathon of December 2024 at the Automotive Campus in Helmond, The Netherlands.
+
+## We won the audience award:
+
+![Audience award](award.jpg)
 
 We chose challenge B: we had to create a realtime SPA dashboard using a dataset we received with around 70 columns of information. We were told that all of these variables were relevant: we had to squeeze all of those values onto the dashboard somehow. The frontend was written in Svelte+TS, using Axios to talk to the backend. The backend was Typescript and Express.JS, with an SQL database to store the data we received.
 
