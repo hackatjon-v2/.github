@@ -20,7 +20,7 @@ This edition of the Digital Proof Hackathon was made possible by [De Digitale We
 
 Hackatjon-v2 consisted of me and these amazing people:
 
-[@luvbxgs](https://github.com/Luvbxgs), [@zyggzzz](https://github.com/zyggzzz) and [@TiesOnKip](https://github.com/TiesOnKip).
+[@wiamsudo](https://github.com/wiamsudo), [@zyggzzz](https://github.com/zyggzzz) and [@TiesOnKip](https://github.com/TiesOnKip).
 
 You guys are truly amazing. Thank you everyone!
 
